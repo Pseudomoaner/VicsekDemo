@@ -1,7 +1,9 @@
 # VicsekDemo
 Matlab-based demonstration of the Vicsek model
 
-To run the application, click 'VicsekDemo.mlapp. You should see the following screen appear:
+To install the stand-alone application, run 'VicsekDemoInstaller.exe' and follow the on-screen instructions. 
+
+When running the application, you should see the following screen appear:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pseudomoaner/VicsekDemo/master/ScreenCap.PNG" alt="Screen capture"/>
