@@ -14,3 +14,6 @@ The demo allows you to change any of the three key parameters of the Vicsek mode
   * nu: The velocity of the agents
  
 For more details on the Vicsek model and its implementation, see the 'Notes.pdf' document.
+
+## References
+Vicsek, T, Czirók, A, Ben-Jacob, E, Cohen, I and Shochet, O, Novel type of phase transition in a system of self-driven particles (1995). *PRL* **75**, pp. 1226-1229.
