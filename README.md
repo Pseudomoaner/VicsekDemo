@@ -15,6 +15,8 @@ The demo allows you to change any of the three key parameters of the Vicsek mode
   * eta: The amount of noise in the system
   * nu: The velocity of the agents
  
+If you have problems closing the application, click the 'Freeze' button beforehand.
+
 For more details on the Vicsek model and its implementation, see the 'Notes.pdf' document.
 
 ## References
