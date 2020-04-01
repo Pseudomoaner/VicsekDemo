@@ -17,7 +17,7 @@ The demo allows you to change any of the three key parameters of the Vicsek mode
  
 If you have problems closing the application, click the 'Freeze' button beforehand.
 
-For more details on the Vicsek model and its implementation, see the 'Notes.pdf' document.
+For more details on the Vicsek model and its implementation, please refer to the lecture notes.
 
 ## References
   * Vicsek, T., Czirók, A., Ben-Jacob, E., Cohen, I. and Shochet, O. (1995). Novel type of phase transition in a system of self-driven particles, *PRL* **75**, pp. 1226-1229. DOI: https://doi.org/10.1103/PhysRevLett.75.1226
